@@ -1,0 +1,162 @@
+* {
+  margin: 0;
+  padding: auto;
+}
+
+body main {
+  margin: auto;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #271107;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  padding-right: 20px;
+}
+
+.texter {
+  background-color: #521515;
+  padding-bottom: 90px;
+  padding-left: 120px;
+  padding-right: 120px;
+  padding-top: 90px;
+  color: white;
+  font-size: 20px;
+}
+
+.texter-1 {
+  padding-bottom: 20px;
+  font-size: 20px;
+}
+
+.texter-2 {
+  display: flex;
+  gap: 400px;
+  padding-bottom: 20px;
+  font-size: 20px;
+}
+
+h6 {
+  padding-bottom: 70px;
+}
+
+.text-1 {
+  padding-top: 40px;
+}
+
+.text-2 {
+  padding-top: 40px;
+}
+
+.text-3 {
+  padding-top: 40px;
+}
+
+.texter-2 h6 {
+  font-size: 20px;
+}
+
+.texter-2 h1 {
+  font-size: 200px;
+}
+
+.texter-3 {
+  padding-bottom: 20px;
+  font-size: 20px;
+  display: flex;
+  gap: 400px;
+}
+
+.texter-3 h6 {
+  font-size: 20px;
+}
+
+.texter-3 h1 {
+  font-size: 200px;
+}
+
+.texter-4 {
+  padding-bottom: 20px;
+  font-size: 20px;
+  display: flex;
+  gap: 400px;
+}
+
+.header-text {
+  position: relative;
+}
+
+.header-texter {
+  position: absolute;
+  bottom: 10%;
+  left: 8%;
+  color: white;
+  font-size: 60px;
+}
+
+.texter-4 h6 {
+  font-size: 20px;
+}
+
+.texter-4 h1 {
+  font-size: 200px;
+}
+
+.texter-5 {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 40px;
+  font-size: 20px;
+}
+
+.text {
+  border: 1px solid;
+  border-radius: 20px;
+  background-color: white;
+  padding: 12px 12px;
+  color: black;
+}
+
+.footer {
+  padding: 20px;
+}
+
+.footer-7 {
+  display: flex;
+  padding-bottom: 30px;
+}
+.footer img {
+  padding-right: 950px;
+}
+
+.footer p {
+  font-size: 20 px;
+}
+
+.footer-info {
+  display: flex;
+  padding-left: 20px;
+  font-size: 20px;
+  justify-content: space-between;
+}
+
+footer nav a {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 20px;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+}
+
+.copy-1 {
+  padding-left: 20px;
+  font-size: 20px;
+}
